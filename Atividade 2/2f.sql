@@ -1,0 +1,1 @@
+﻿SELECT cpf, Dnome FROM funcionario, departamento WHERE dnr = dnumero;

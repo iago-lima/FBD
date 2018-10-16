@@ -1,0 +1,1 @@
+﻿SELECT Pnome, Minicial, Unome FROM Funcionario WHERE Dnr = '5' AND Salario >= 30.000 AND Salario <= 40.000

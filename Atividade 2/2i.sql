@@ -1,0 +1,1 @@
+﻿SELECT Salario + (Salario * 0.10) FROM Funcionario, Trabalha_em, Projeto WHERE Projnome = 'ProdutoX' AND Projnumero = Pnr AND Trabalha_em.fcpf = Funcionario.cpf

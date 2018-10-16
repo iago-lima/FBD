@@ -1,0 +1,1 @@
+﻿SELECT Pnome, Endereco FROM funcionario, departamento WHERE Dnome = 'Pesquisa' AND dnr = dnumero;

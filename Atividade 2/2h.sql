@@ -1,0 +1,1 @@
+﻿SELECT Projnumero FROM Trabalha_em, Funcionario, Projeto WHERE ProjNumero = Pnr AND Trabalha_em.fcpf = Funcionario.cpf AND Unome = 'Silva'

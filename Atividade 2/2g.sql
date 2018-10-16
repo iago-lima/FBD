@@ -1,0 +1,1 @@
+﻿SELECT DISTINCT salario FROM Funcionario

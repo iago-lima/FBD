@@ -1,0 +1,1 @@
+﻿SELECT cpf FROM funcionario;
